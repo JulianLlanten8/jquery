@@ -7,4 +7,6 @@
 ## Ejemplo
 
  Un geolocalizador con la api de google maps.
- ![google_maps_api-geolocation](https://github.com/user-attachments/assets/ac9d8b09-b678-4c94-a3e7-8dfdfdf81032)
+ ![google_maps_api-geolocation](https://github.com/user-attachments/assets/cadcfab5-83c1-4266-b709-d29159ead00a)
+
+
